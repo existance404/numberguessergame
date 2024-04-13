@@ -1,7 +1,7 @@
 from tkinter import *
 import random
 root = Tk()
-root.title("MOO ICT")
+root.title("Number Guesser Game")
 root.geometry("250x150")
 secret_number = "none"
 # function and events
